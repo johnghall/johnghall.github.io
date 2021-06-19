@@ -1,6 +1,6 @@
 import React from "react"
 
-import { Box, Button, Typography, Grid } from "@material-ui/core"
+import { Button, Grid } from "@material-ui/core"
 
 const LinkBox = (props) => {
   return (
