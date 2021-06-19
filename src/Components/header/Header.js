@@ -1,5 +1,4 @@
-import { Tab, Tabs, Typography } from "@material-ui/core"
-import { AppBar, Toolbar } from "@material-ui/core"
+import { AppBar } from "@material-ui/core"
 import React from "react"
 
 import StyledTabs from "./StyledTabs"
