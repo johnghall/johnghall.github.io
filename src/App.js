@@ -4,6 +4,7 @@ import { Container, Grid, Box, Paper } from "@material-ui/core"
 
 import Header from "./Components/header/Header"
 import Links from "./Components/links/Links"
+import AboutMe from "./Components/about/AboutMe"
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
               <Links />
             </Grid>
             <Grid item xs={12}>
-              <Paper>About Me</Paper>
+              <AboutMe />
             </Grid>
             <Grid item xs={12}>
               <Paper>Work Experience</Paper>
